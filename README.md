@@ -9,7 +9,6 @@ function getProperty<T, K extends keyof T>(obj: T, key: K) {
 }
 <br>
 <br>
-<br>
 const person: Person = { name: "Mohammad Jihad", age: 17, address: "Savar , Dhaka" };
 <br>
 <br>
